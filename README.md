@@ -231,8 +231,6 @@ https://github.com/tenpoku1000/OPML_bookmarks
 1. プロジェクトX 挑戦者たち 国産コンピューター ゼロからの大逆転：NHKエンタープライズ
 2. プロジェクトX 挑戦者たち 運命の最終テスト ～ワープロ・日本語に挑んだ若者たち～：NHKエンタープライズ
 3. プロジェクトX 挑戦者たち 家電革命 トロンの衝撃：NHKエンタープライズ
-4. termcap&terminfo (NUTSSHELL HANDBOOKS)：アスキー
-5. UNIX Cプログラミング (NUTSSHELL HANDBOOKS)：アスキー
 
 ![本棚 12 の下段 4](images/12-3-4.JPG)
 
